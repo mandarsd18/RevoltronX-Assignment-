@@ -8,6 +8,7 @@ import Footer from "./components/Footer";
 
 function App() {
   return (
+    //Routing of pages
     <>
       <Routes>
         <Route

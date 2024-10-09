@@ -12,6 +12,8 @@ const Category = () => {
   const [spo, setSport] = useState();
   const [tech, setTech] = useState();
 
+  // Getting Api routes for each and Every Category of News
+
   const topHeadline =
     "https://newsapi.org/v2/top-headlines?country=us&apiKey=10563b0d64834fc395f01cffae040b09";
 

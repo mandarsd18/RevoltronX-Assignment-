@@ -21,6 +21,8 @@ const Home = () => {
 
   return (
     <>
+    {/* Added Banner in order to show the latest news , This banner section contains the any random news from top headline and show it */}
+  
       <div className="w-full h-[500px] sm:h-[600px] sm:my-10 mb-3">
         <div className="relative w-full h-full mx-auto sm:w-[80%]">
           <img

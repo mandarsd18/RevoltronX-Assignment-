@@ -1,3 +1,4 @@
+// Added extra Search Funtionality for in order to search news
 import axios from "axios";
 import React, { useEffect, useState } from "react";
 import Pagination from "./Pagination";
@@ -89,6 +90,7 @@ const Search = () => {
        
       </div>
       </div>
+      {/* Added pagination better user experiance */}
       <div className="w-full">
       <Pagination totalpost={data?.length} postPerPage={postPerPage}
       setCurrentPage={setCurrentPage}  />
