@@ -6,7 +6,6 @@ This project is part of the RevoltronX software developer intern assignment. It 
 
 - **React**: Frontend framework for building a single-page application (SPA).
 - **Tailwind CSS**: Utility-first CSS framework for responsive design.
-- 
 - **Searching**: Allows users to search for articles based on keywords or topics.
 - **Pagination**: Enables smooth navigation across multiple pages of articles.
 - **All Category News**: Displays news from various categories to provide a diverse selection of articles.
@@ -14,18 +13,22 @@ This project is part of the RevoltronX software developer intern assignment. It 
 ## Installation
 
 1. Clone the repository:
+
    ```bash
    git clone https://github.com/mandarsd18/RevoltronX-Assignment-.git
 
 2. Navigate to the project folder:
+
    ```bash
      cd RevoltronX-Assignment
 
 3. Install dependencies:
+
    ```bash
      npm install
 
 4. To start the development server:
+
    ```bash
      npm start
 
